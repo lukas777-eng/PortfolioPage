@@ -18,10 +18,10 @@ const Footer = () => {
               <a href='https://www.linkedin.com/in/lucastomascasco/' target='_blank' rel='noopener noreferrer'>
                   <i className='fab fa-linkedin linkedin'></i>
               </a>
-              <a href='https://www.linkedin.com/in/lucastomascasco/' target='_blank' rel='noopener noreferrer'>
+              <a href='https://github.com/lukas777-eng' target='_blank' rel='noopener noreferrer'>
                   <i className='fab fa-github github'></i>
               </a>
-              <a href='https://www.linkedin.com/in/lucastomascasco/' target='_blank' rel='noopener noreferrer'>
+              <a href='https://twitter.com/a3000xxx' target='_blank' rel='noopener noreferrer'>
                   <i className='fab fa-twitter twitter'></i>
               </a>
           </div>

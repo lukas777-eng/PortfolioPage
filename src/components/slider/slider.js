@@ -8,18 +8,18 @@ const Slider = () => {
   return (
     <div className='carousel-container'>
         <div className='carousel-title'>
-            <h2>my projects</h2>
+            <h2>Projects</h2>
         </div>
         <Carousel
-         plugins={[
-            'infinite',
-            'arrows',
-            
-         ]}
+        
             arrows
-            slidesPerPage={3}
             infinite
-            animationSpeed={200}
+            rtl
+            slidesPerPage={3}
+            slidesPerScroll={2}
+            animationSpeed={1000}
+            keepDirectionWhenDragging
+            autoPlay={2000}
             centered
             offset={50}
             itemWidth={400}
