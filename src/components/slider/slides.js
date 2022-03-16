@@ -1,6 +1,8 @@
 import React from 'react'
 import './slider.css'
 import DogsPage from '../../media/DogsPage.jpg'
+import ecommerce from '../../media/ecommerce.png'
+import weather from '../../media/weather.png'
 
 
 const slidesInfo = [
@@ -11,14 +13,13 @@ const slidesInfo = [
         link: "https://individual-project-dogs.vercel.app/"
     },
     {
-        src: "ecommerce.png",
+        src: ecommerce,
         alt: "project 2",
         desc: "project 2",
         link: "https://reverent-wright-6c3162.netlify.app/"
     },
     {
-        src: "weather.png",
-        alt: "project 3",
+        src: weather,
         desc: "project 3",
         link: "https://weather-app-rosy-ten-93.vercel.app/"
     },
