@@ -11,15 +11,16 @@ const slidesInfo = [
         link: "https://individual-project-dogs.vercel.app/"
     },
     {
-        src: "https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg",
+        src: "ecommerce.png",
         alt: "project 2",
         desc: "project 2",
         link: "https://reverent-wright-6c3162.netlify.app/"
     },
     {
-        src: "https://cdn.pixabay.com/photo/2015/02/05/08/06/macbook-624707_960_720.jpg",
+        src: "weather.png",
         alt: "project 3",
-        desc: "project 3"
+        desc: "project 3",
+        link: "https://weather-app-rosy-ten-93.vercel.app/"
     },
     {
         src: "https://cdn.pixabay.com/photo/2015/02/05/08/06/macbook-624707_960_720.jpg",
