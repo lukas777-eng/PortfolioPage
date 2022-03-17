@@ -1,5 +1,6 @@
 import React from 'react'
 import './about.css'
+import image from '../../media/dev.png'
 
 const About = () => {
   return (
@@ -14,7 +15,7 @@ The company that chooses me will get a curious developer with great problem-solv
           </h3>
       </div>
       <div className='about-img'>
-          <img src='https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg' alt='about'/>
+          <img src={image} alt='about'/>
       </div>
     </div>
   )
