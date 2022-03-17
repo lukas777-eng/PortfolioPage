@@ -14,7 +14,6 @@ const Slider = () => {
         
             arrows
             infinite
-            rtl
             slidesPerPage={3}
             slidesPerScroll={2}
             animationSpeed={1000}

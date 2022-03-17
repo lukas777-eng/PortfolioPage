@@ -14,13 +14,14 @@ const slidesInfo = [
     },
     {
         src: ecommerce,
-        alt: "project 2",
-        desc: "project 2",
+        alt: "Ecommerce",
+        desc: "Ecommerce",
         link: "https://reverent-wright-6c3162.netlify.app/"
     },
     {
         src: weather,
-        desc: "project 3",
+        alt: "Weather",
+        desc: "Weather",
         link: "https://weather-app-rosy-ten-93.vercel.app/"
     },
     {
