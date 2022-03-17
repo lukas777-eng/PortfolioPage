@@ -23,21 +23,6 @@ const slidesInfo = [
         alt: "Weather",
         desc: "Weather",
         link: "https://weather-app-rosy-ten-93.vercel.app/"
-    },
-    {
-        src: "https://cdn.pixabay.com/photo/2015/02/05/08/06/macbook-624707_960_720.jpg",
-        alt: "project 3",
-        desc: "project 3"
-    },
-    {
-        src: "https://cdn.pixabay.com/photo/2015/02/05/08/06/macbook-624707_960_720.jpg",
-        alt: "project 3",
-        desc: "project 3"
-    },
-    {
-        src: "https://cdn.pixabay.com/photo/2015/02/05/08/06/macbook-624707_960_720.jpg",
-        alt: "project 3",
-        desc: "project 3"
     }
 
 ];
