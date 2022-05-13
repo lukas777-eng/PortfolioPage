@@ -3,6 +3,8 @@ import './slider.css'
 import DogsPage from '../../media/DogsPage.jpg'
 import ecommerce from '../../media/ecommerce.png'
 import weather from '../../media/weather.png'
+import CrudContact from '../../media/CrudContact.png'
+
 
 
 const slidesInfo = [
@@ -11,6 +13,12 @@ const slidesInfo = [
         alt: "DogsPage",
         desc: "DogsPage",
         link: "https://individual-project-dogs.vercel.app/"
+    },
+    {
+        src: CrudContact,
+        alt: "CrudContact",
+        desc: "CrudContact",
+        link: "https://technical-asessment-crud-contact.vercel.app/contacts"
     },
     {
         src: ecommerce,
